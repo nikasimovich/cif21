@@ -7,7 +7,7 @@ summary: Figma Intro, Interviews, Typographic hierarchy, HTML Intro, Local progr
 
 ### Tuesday, In Class
 
-- [Zoom Link](https://NewSchool.zoom.us/my/nikafisher)
+- [Zoom Link](https://NewSchool.zoom.us/my/nikafisher) for those who can&rsquo;t attend. We should all be meeting in person at 63 Fifth Ave Room: 502
 - Introduce ongoing assignment [Design Journal](/projects/design-journal)
 - [Today's Notes](https://paper.dropbox.com/doc/Core-1-Interaction-Week-2-Notes--BR4UiltApTOgL8eNxbXgmYFNAQ-fRJUZoWUt2BjM7gEiVVKL)
 - Figma tour and set up
