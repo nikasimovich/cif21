@@ -14,6 +14,6 @@ summary: Typography on the Web, Hovering, Uploading work
 - Partner meetings to review Interview design
 
 ### Homework
-- Watch the video tutorial on [uploading work to GitHub](https://vimeo.com/showcase/8025633/video/502734712) for uploading your work.
+- Watch the video tutorial on [uploading work to GitHub](https://vimeo.com/showcase/8025633/video/502734712) for uploading your work. This video is also on Canvas under Modules. It is the module called " Video – How to Upload to GitHub"
 - Complete the hover activity (do not spend over an hour on it) and try to upload it to GitHub. Please aim to have a URL for the hover activity.
 - Make progress on your Interview project, which has been extended by one week. Please have HTML and CSS progress to show me in class next week.
