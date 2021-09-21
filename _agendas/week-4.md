@@ -15,5 +15,5 @@ summary: Typography on the Web, Hovering, Uploading work
 
 ### Homework
 - Watch the video tutorial on [uploading work to GitHub](https://vimeo.com/showcase/8025633/video/502734712) for uploading your work.
-- Complete the hover activity (do not spend over an hour on it)
-- Complete your Interview project. It should be online at the start of class for next week. 
+- Complete the hover activity (do not spend over an hour on it) and try to upload it to GitHub. Please aim to have a URL for the hover activity.
+- Make progress on your Interview project, which has been extended by one week. Please have HTML and CSS progress to show me in class next week.
