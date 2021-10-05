@@ -2,7 +2,7 @@
 title:            Week 6
 start_date:       2021-10-04 00:00:00 -0500
 date_range:       10/05
-summary: P1: Interview Critique
+summary: Interview Critique
 ---
 
 ### Tuesday, In Class
