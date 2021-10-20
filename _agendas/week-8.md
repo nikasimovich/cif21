@@ -20,3 +20,4 @@ summary: Digital Image, Typologies, CSS Positioning
 
 - Prepare three different pitches for your Rock Garden project. Create a short presentation (Google slides, Figma, or PDF) that introduces each subject. Please include a visual representation, your interest in the subject, potential aspects you could focus on, and how it might be organized. Be sure to develop a plan on how you&rsquo;ll visually represent your collection, with an example for each one.
 - Make sure all of your work is on Canvas ASAP. I will complete Midterm Evaluations this week.
+- Complete your Coding from Life activity
