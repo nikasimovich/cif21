@@ -17,5 +17,5 @@ summary: CSS Animation Review, Rock Garden Check In, Responsive Design Review, I
 
 ### Homework
 
-- Based on toda&rsquo;s feedback, move forward with one design direction. Build out the entire site design in Figma.
+- Based on today&rsquo;s feedback, move forward with one design direction. Build out the entire site design in Figma.
 - Reviewing today&rsquo;s notes in your own time.
