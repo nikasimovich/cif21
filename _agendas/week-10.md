@@ -1,6 +1,6 @@
 ---
 title:            Week 10
-start_date:       2021-10-04 00:00:00 -0500
+start_date:       2021-11-01 00:00:00 -0500
 date_range:       11/02
 summary: CSS Animation Review, Rock Garden Check In, Responsive Design Review, Intro to JS
 ---
