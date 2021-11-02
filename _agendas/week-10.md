@@ -8,7 +8,7 @@ summary: CSS Animation Review, Rock Garden Check In, Responsive Design Review, I
 ### Tuesday, In Class
 
 - [Zoom Link](https://NewSchool.zoom.us/my/nikafisher) for those who can&rsquo;t attend. We should all be meeting in person at 63 Fifth Ave Room: 502
-- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-CI-Week-9--BU92t6gAaA5d~zV55qRgm98AAQ-5c8qm2pe52uB1ngQGtDvS)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-CI-Week-10-CSS-Animation-Review-Project-Check-In--BVbM87j54cfXmOyoceT82ZJNAQ-rVw6UqGVr9DR18PUP7b2G)
 - Coding from Life show and tell
 - Design process, creating a design presentation
 - SVGs and CSS animation activity in small groups
