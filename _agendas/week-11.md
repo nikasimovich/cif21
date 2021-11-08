@@ -2,7 +2,7 @@
 title:            Week 11
 start_date:       2021-11-07 00:00:00 -0500
 date_range:       11/08
-summary: CSS Animation Review, Rock Garden Check In, Responsive Design Review, Intro to JS
+summary: JavaScript intro
 ---
 
 ### Tuesday, In Class
