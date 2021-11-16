@@ -8,7 +8,7 @@ summary: JavaScript intro
 ### Tuesday, In Class
 
 - [Zoom Link](https://NewSchool.zoom.us/my/nikafisher) for those who can&rsquo;t attend. We should all be meeting in person at 63 Fifth Ave Room: 502
-- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-CI-Week-11-JavaScript-Intro--BVwGYnGXiw4eNhomlqJS6wZLAQ-f6YFQrbIw62jgrHsqnLHP)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-CI-Week-12-JavaScript-Libraries--BWSoL21w7DdPNo50NI8rR07lAQ-g0cYvb5Z56LZwnVxNvHdF)
 - JavaScript Notes and Coding Activity
 
 
@@ -16,4 +16,4 @@ summary: JavaScript intro
 
 - Design Journal: Reminder, you should have around 10 items in your design diary. I will collect them a final time at the end of the semester.
 - Rock Garden is extended by one week. Begin programming your Rock Garden. Email me if you would like feedback. Final project is due on 11/23
-- Complete the in-class JavaScript Exercise and submit it on Canvas.
+- Complete the two in-class p5.Js Exercises and submit it on Canvas.
