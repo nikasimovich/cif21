@@ -8,7 +8,7 @@ summary: JavaScript intro
 ### Tuesday, In Class
 
 - [Zoom Link](https://NewSchool.zoom.us/my/nikafisher) for those who can&rsquo;t attend. We should all be meeting in person at 63 Fifth Ave Room: 502
-- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-CI-Week-12-JavaScript-Libraries--BWSoL21w7DdPNo50NI8rR07lAQ-g0cYvb5Z56LZwnVxNvHdF)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-CI-Week-11-JavaScript-Intro--BWXNps_OW6SufvCW753xAHBfAQ-f6YFQrbIw62jgrHsqnLHP)
 - JavaScript Notes and Coding Activity
 
 
