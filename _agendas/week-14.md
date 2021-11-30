@@ -7,7 +7,7 @@ summary: JavaScript Libraries, Final Project Intro
 
 ### Tuesday, In Class
 
-- [Zoom Link](https://NewSchool.zoom.us/my/nikafisher)
+- [Zoom Link](https://NewSchool.zoom.us/my/nikafisher). We are meeting in person today!
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Parsons-CI-Week-14-Using-JavaScript-Libraries-in-the-Browser--BXLZjH9y1y~LQIcMlv5bMd6pAQ-Xvz24L9I36HUsJC6cx9vc)
 - Review [final project](../projects/final)
 - Review p5 sketches
